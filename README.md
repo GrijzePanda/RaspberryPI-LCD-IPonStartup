@@ -1,9 +1,9 @@
-# RaspberryPI - Show IP and Time on LCD on startup
+# RaspberryPI - Show IP, Hostname and Time on LCD on startup
 
 
 ## Description
 
-This repository contains a Python script to display the current IP address and time on an LCD1602 screen connected to a Raspberry Pi or similar microcontroller.
+This repository contains a Python script to display the current IP address, hostname and time on an LCD1602 screen connected to a Raspberry Pi or similar microcontroller.
 
 Using this script, you can quickly set up a small display that provides essential network information and current time, making it ideal for monitoring network-connected devices or as a compact status display for various projects.
 
